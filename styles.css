@@ -1,0 +1,20 @@
+#headerTitle {
+    padding: 20px;
+}
+
+p#underConstruction {
+    font-size: x-large;
+}
+
+.black-background {
+    background-color: #26262a;
+    color: #fff;
+}
+
+footer {
+    min-height: 200px;
+}
+
+footer .footer-box  {
+    padding: 30px 0;
+}
