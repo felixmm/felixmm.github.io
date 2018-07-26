@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-    <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="styles.css" />
@@ -29,18 +28,24 @@
     
     <footer class="container-fluid black-background">
         <div class="container">
-            <div class="col-md-6 text-center footer-box">
-                <a href="https://stackoverflow.com/users/302684/felixmm" target="_blank">
-                    <img src="https://stackoverflow.com/users/flair/302684.png?theme=clean" width="208" height="58" alt="profile for felixmm at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for felixmm at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
-                </a>
-            </div>
-            <div class="col-md-6 text-center footer-box">
-                <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="felixmmartinez">
-                    <a class="LI-simple-link" href='https://do.linkedin.com/in/felixmmartinez?trk=profile-badge' target="_blank">
-                        Felix M. Martinez
+            <ul class="list-inline">
+                <li>
+                    <a href="https://stackoverflow.com/users/302684/felixmm" target="_blank">
+                        <img id="stackoverflowIcon" src="./resources/so-icon.png" alt="profile for felixmm at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for felixmm at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
+                        <span>StackOverflow</span>
                     </a>
-                </div>
-            </div>
+                </li>
+                <li>
+                    <a href="https://www.linkedin.com/in/felixmmartinez/" />
+                        <img id="linkedinIcon" src="./resources/linkedin.png" alt="felixmm's LinkedIn profile" title="felixmm's LinkedIn profile" />
+                        <span>LinkedIn</span>
+                    </a>
+                </li>
+            </ul>
+            <span id="iconCredit" class="text-center">
+                <div>all images credited to their rightful owners</div>
+                <div>Icons made by <a href="http://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+            </span>
         </div>
     </footer>
 

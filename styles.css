@@ -15,6 +15,45 @@ footer {
     min-height: 200px;
 }
 
-footer .footer-box  {
+footer ul {
+    text-align: center;
     padding: 30px 0;
+}
+
+footer li {
+    width: 40%;
+    font-size: x-large;
+}
+
+@media(max-width: 768px) {
+    footer li {
+        width: 80%;
+        font-size: large;
+        padding-bottom: 20px;
+    }
+}
+
+footer li a:link, 
+footer li a:visited {
+    color: #fff;
+    text-decoration: none;
+}
+
+footer li a:hover {
+    color: #9b9b9b;
+    text-decoration: none;
+}
+
+footer #stackoverflowIcon {
+    width: 110px;
+    height: 110px;
+}
+
+footer #linkedinIcon {
+    width: 84px;
+    height: 84px;
+}
+
+footer #iconCredit {
+    font-size: xx-small;
 }
