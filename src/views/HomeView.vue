@@ -3,7 +3,7 @@
     <div class="container-fluid title">
       <div class="container">
         <div class="row py-4">
-          <div class="col-10 text-start">
+          <div class="col-md-10 col-sm-12 text-start">
             <h1>
               Hi, <br />
               I'm Felix
@@ -20,15 +20,15 @@
               </p>
             </div>
           </div>
-          <div class="col-2 align-self-center">
-            <div class="col-12 mb-5">
+          <div class="col-md-2 col-sm-12 align-self-center">
+            <div class="col-md-12 col-sm-6 mb-5">
               <a
                 href="https://www.linkedin.com/in/felixmmartinez/"
                 target="_blank"
                 ><i class="fa-brands fa-linkedin fa-5x"></i
               ></a>
             </div>
-            <div class="col-12">
+            <div class="col-md-12 col-sm-6">
               <a
                 href="https://stackoverflow.com/users/302684/felix-martinez"
                 target="_blank"
