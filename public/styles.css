@@ -1,0 +1,45 @@
+:root {
+    /* Custom colors */
+    --white:#ffffff;
+    --blue: #09223b;
+    /* --blue-light: #8892b0; */
+    --blue-light: #67c7f5;
+    --grey: #303030;
+    --grey-light: #c1c1c1;
+
+    /* Bootstrap overwrite */
+    --bs-link-color: var(--grey-light) !important;
+    --bs-link-hover-color: var(--white) !important;
+    
+    /*
+    --blue-50: #70b5f9;
+    --blue-60: #378fe9;
+    --blue-70: #0a66c2;
+    --blue-80: #004182;
+    --blue-90: #09223b;
+    */
+}
+
+.font-12 {
+    font-size: 12px;
+}
+
+.font-14 {
+    font-size: 14px;
+}
+
+.font-16 {
+    font-size: 16px;
+}
+
+.font-18 {
+    font-size: 18px;
+}
+
+.font-20 {
+    font-size: 20px;
+}
+
+.font-22 {
+    font-size: 22px;
+}
