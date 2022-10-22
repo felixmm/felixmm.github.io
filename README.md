@@ -1,24 +1,11 @@
-# felixmm.github.io
+# Felix's Personal Profile Website
 
-## Project setup
-```
-yarn install
-```
+### Welcome, this is my profile and portfolio website, currently build using:
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+* [Vue 3](https://vuejs.org/)
+* [Bootstrap](https://getbootstrap.com/)
+* [FontAwesome](https://fontawesome.com/)
 
-### Compiles and minifies for production
-```
-yarn build
-```
+I'll continue to improve on it whenever I feel ~~the need to flex~~ that any other technology would be good for my repertoire.
 
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Feel free to check it out, [felixmm.github.io](https://felixmm.github.io/)
