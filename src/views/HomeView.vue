@@ -15,8 +15,9 @@
                 complicated problems in the simplest way possible.
               </p>
               <p>
-                I'm slowly working on it, so be sure to come back often to see
-                what's new. In the meantime, go check out my other profiles.
+                I'm slowly working on this site, so be sure to come back from
+                time to time to see what's new. In the meantime, go check out my
+                other profiles.
               </p>
             </div>
           </div>
